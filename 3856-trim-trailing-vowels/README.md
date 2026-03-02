@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/trim-trailing-vowels">3856. Trim Trailing Vowels</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> that consists of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/trim-trailing-vowels">4229. Trim Trailing Vowels</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> that consists of lowercase English letters.</p>
 
 <p>Return the string obtained by removing <strong>all</strong> trailing <strong>vowels</strong> from <code>s</code>.</p>
 

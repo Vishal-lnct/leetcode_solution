@@ -78,4 +78,5 @@
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0076-minimum-window-substring/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -23,10 +24,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
+| [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +69,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -82,4 +86,8 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 <!---LeetCode Topics End-->

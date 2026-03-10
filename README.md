@@ -11,6 +11,7 @@
 | [1029-two-city-scheduling](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1029-two-city-scheduling) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/1980-find-unique-binary-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Vishal-lnct/leetcode_solution/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Vishal-lnct/leetcode_solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

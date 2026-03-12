@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 | [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -24,6 +25,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 ## Greedy
 | Problem Name | Difficulty |
@@ -41,6 +43,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vishal-lnct/leetcode_solution/tree/master/0769-max-chunks-to-make-sorted) |
 ## Tree
 | Problem Name | Difficulty |
@@ -78,6 +81,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
@@ -114,4 +118,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Vishal-lnct/leetcode_solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0456-132-pattern](https://github.com/Vishal-lnct/leetcode_solution/tree/main/0456-132-pattern/) | Medium |
 <!---LeetCode Topics End-->
